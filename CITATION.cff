@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or educational work, please cite it as below."
+authors:
+- family-names: "Honda"
+  given-names: "Yoshihiro"
+  alias: "blackredfoxcrow7"
+title: "Graph-Spectral Colloid & LNP Surfactant Phase Predictor"
+version: 1.0.0
+date-released: 2026-09-28
+url: "https://github.com/blackredfoxcrow7/fiedler-colloid-lnp-sim"
+repository-code: "https://github.com/blackredfoxcrow7/fiedler-colloid-lnp-sim"
+keywords:
+  - colloid-science
+  - lipid-nanoparticle
+  - mrna-vaccine
+  - fiedler-vector
+  - spectral-graph-theory
+  - surfactant-mesophase
+  - proton-conduction
