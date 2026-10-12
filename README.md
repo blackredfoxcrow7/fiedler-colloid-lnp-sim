@@ -3,7 +3,7 @@
 **Graph-Spectral Topological Physics Framework for Colloid Science, Surfactant Mesophase Transitions, and Lipid Nanoparticle (LNP) mRNA Drug Delivery Systems**
 
 *Concept & Theory by Yoshihiro Honda (本多 義弘)*  
-*Independent Researcher in Computational & Organic Chemistry, Japan*
+*Independent Researcher in Organic Chemistry, Japan*
 
 ---
 
